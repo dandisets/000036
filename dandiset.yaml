@@ -16,3 +16,5 @@ keywords:
 - two photon imaging
 name: Allen Institute Openscope - Meaningful project
 number_of_subjects: 9
+organism:
+- species: Mus musculus
