@@ -5,18 +5,8 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 79771339536
-  numberOfFiles: 57
-  numberOfSubjects: 9
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Last, First (2021) Allen Institute Openscope - Meaningful project (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
 contributor:
