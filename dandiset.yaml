@@ -6,6 +6,12 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
+acknowledgement: We thank the Allen Institute founder, Paul G. Allen, for his vision,
+  encouragement, and support; Allan Jones for providing the crucial environment that
+  enabled our large-scale team effort; Andrew Haun for helpful comments and assistance
+  with creating the noise stimulus; Jonathan Lang for assistance filming the naturalistic
+  stimuli; and Larissa Albantakis, Leonardo S. Barbosa, Tom Bugnon, Graham Findlay,
+  Marcello Massimini, and Shuntaro Sasai for helpful discussions.
 assetsSummary:
   approach:
   - name: microscopy approach; cell population imaging
@@ -27,22 +33,64 @@ assetsSummary:
   variableMeasured:
   - BehavioralTimeSeries
   - PlaneSegmentation
-citation: Last, First (2023) Allen Institute Openscope - Meaningful project (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
+citation: Jerome Lecoq; Will Mayner (2023) Allen Institute Openscope - Meaningful
+  project (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
 contributor:
-- identifier: 0000-0002-0131-0938
+- affiliation: []
+  email: jeromel@alleninstitute.org
+  identifier: 0000-0002-0131-0938
   includeInCitation: true
-  name: Last, First
+  name: Jerome Lecoq
   roleName:
+  - dcite:Author
   - dcite:DataCollector
   - dcite:DataCurator
   - dcite:DataManager
-  - dcite:Author
+  - dcite:FundingAcquisition
+  - dcite:Methodology
+  - dcite:ProjectAdministration
+  - dcite:Supervision
+  - dcite:Validation
   - dcite:ContactPerson
+  - dcite:Producer
   schemaKey: Person
+  url: https://alleninstitute.org/person/jerome-lecoq/
+- affiliation: []
+  email: wmayner@gmail.com
+  identifier: 0000-0002-9737-6260
+  includeInCitation: true
+  name: Will Mayner
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:ProjectLeader
+  - dcite:Researcher
+  - dcite:Software
+  schemaKey: Person
+  url: http://willmayner.com
 dateCreated: '2020-08-18T08:05:48.731000+00:00'
-description: The meaningful project characterized the preferences of mice visual cortical
-  areas for natural images
+description: Despite significant progress in understanding neural coding, it remains
+  unclear how the coordinated activity of large populations of neurons relates to
+  what an observer actually perceives. Since neurophysiological differences must underlie
+  differences among percepts, differentiation analysis-quantifying distinct patterns
+  of neurophysiological activity-has been proposed as an "inside-out" approach that
+  addresses this question. This methodology contrasts with "outside-in" approaches
+  such as feature tuning and decoding analyses, which are defined in terms of extrinsic
+  experimental variables. Here, we used two-photon calcium imaging in mice of both
+  sexes to systematically survey stimulus-evoked neurophysiological differentiation
+  (ND) in excitatory neuronal populations in layers (L)2/3, L4, and L5 across five
+  visual cortical areas (primary, lateromedial, anterolateral, posteromedial, and
+  anteromedial) in response to naturalistic and phase-scrambled movie stimuli. We
+  find that unscrambled stimuli evoke greater ND than scrambled stimuli specifically
+  in L2/3 of the anterolateral and anteromedial areas, and that this effect is modulated
+  by arousal state and locomotion. By contrast, decoding performance was far above
+  chance and did not vary substantially across areas and layers. Differentiation also
+  differed within the unscrambled stimulus set, suggesting that differentiation analysis
+  may be used to probe the ethological relevance of individual stimuli.
 ethicsApproval: []
 id: DANDI:000036/draft
 identifier: DANDI:000036
