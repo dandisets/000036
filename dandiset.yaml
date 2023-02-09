@@ -33,14 +33,14 @@ assetsSummary:
   variableMeasured:
   - BehavioralTimeSeries
   - PlaneSegmentation
-citation: Jerome Lecoq; Will Mayner (2023) Allen Institute Openscope - Meaningful
+citation: Lecoq, Jerome; Mayner, Will (2023) Allen Institute Openscope - Meaningful
   project (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
 contributor:
 - affiliation: []
   email: jeromel@alleninstitute.org
   identifier: 0000-0002-0131-0938
   includeInCitation: true
-  name: Jerome Lecoq
+  name: Lecoq, Jerome
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -59,7 +59,7 @@ contributor:
   email: wmayner@gmail.com
   identifier: 0000-0002-9737-6260
   includeInCitation: true
-  name: Will Mayner
+  name: Mayner, Will
   roleName:
   - dcite:Author
   - dcite:Conceptualization
@@ -73,7 +73,7 @@ contributor:
   schemaKey: Person
   url: http://willmayner.com
 dateCreated: '2020-08-18T08:05:48.731000+00:00'
-description: Despite significant progress in understanding neural coding, it remains
+description: 'Despite significant progress in understanding neural coding, it remains
   unclear how the coordinated activity of large populations of neurons relates to
   what an observer actually perceives. Since neurophysiological differences must underlie
   differences among percepts, differentiation analysis-quantifying distinct patterns
@@ -91,18 +91,31 @@ description: Despite significant progress in understanding neural coding, it rem
   chance and did not vary substantially across areas and layers. Differentiation also
   differed within the unscrambled stimulus set, suggesting that differentiation analysis
   may be used to probe the ethological relevance of individual stimuli.
+
+
+  For more details, consult the associated publication : https://doi.org/10.1523/eneuro.0280-21.2021'
 ethicsApproval: []
 id: DANDI:000036/draft
 identifier: DANDI:000036
 keywords:
 - two photon imaging
+- visual stimuli
+- mice
+- openscope
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000036/versions/draft/assets/
 name: Allen Institute Openscope - Meaningful project
 protocol: []
-relatedResource: []
+relatedResource:
+- identifier: 10.1523/eneuro.0280-21.2021
+  name: Measuring Stimulus-Evoked Neurophysiological Differentiation in Distinct Populations
+    of Neurons in Mouse Visual Cortex
+  relation: dcite:IsPublishedIn
+  repository: eNeuro
+  schemaKey: Resource
+  url: https://doi.org/10.1523/eneuro.0280-21.2021
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
