@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000036
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -26,7 +27,7 @@ assetsSummary:
   variableMeasured:
   - BehavioralTimeSeries
   - PlaneSegmentation
-citation: Last, First (2022) Allen Institute Openscope - Meaningful project (Version
+citation: Last, First (2023) Allen Institute Openscope - Meaningful project (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
 contributor:
 - identifier: 0000-0002-0131-0938
@@ -42,15 +43,22 @@ contributor:
 dateCreated: '2020-08-18T08:05:48.731000+00:00'
 description: The meaningful project characterized the preferences of mice visual cortical
   areas for natural images
+ethicsApproval: []
 id: DANDI:000036/draft
 identifier: DANDI:000036
 keywords:
 - two photon imaging
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000036/versions/draft/assets/
 name: Allen Institute Openscope - Meaningful project
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000036/draft
 version: draft
+wasGeneratedBy: []
