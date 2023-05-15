@@ -35,7 +35,7 @@ assetsSummary:
   - PlaneSegmentation
 citation: Lecoq, Jerome; Mayner, Will (2023) Allen Institute Openscope - Measuring
   Stimulus-Evoked Neurophysiological Differentiation in Distinct Populations of Neurons
-  in Mouse Visual Cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000036/draft
+  in Mouse Visual Cortex (Version 0.230515.1917) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000036/0.230515.1917
 contributor:
 - affiliation: []
   email: jeromel@alleninstitute.org
@@ -96,8 +96,9 @@ description: 'Despite significant progress in understanding neural coding, it re
 
 
   For more details, consult the associated publication : https://doi.org/10.1523/eneuro.0280-21.2021'
+doi: 10.48324/dandi.000036/0.230515.1917
 ethicsApproval: []
-id: DANDI:000036/draft
+id: DANDI:000036/0.230515.1917
 identifier: DANDI:000036
 keywords:
 - two photon imaging
@@ -107,7 +108,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000036/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000036/0.230515.1917/assets.yaml
 name: Allen Institute Openscope - Measuring Stimulus-Evoked Neurophysiological Differentiation
   in Distinct Populations of Neurons in Mouse Visual Cortex
 protocol: []
@@ -135,6 +136,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000036/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000036/0.230515.1917
+version: 0.230515.1917
 wasGeneratedBy: []
