@@ -277,6 +277,39 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: https://tinybluedotfoundation.org/
+- affiliation:
+  - identifier: https://ror.org/03cpe7c52
+    name: Allen Institute
+    schemaKey: Affiliation
+  identifier: 0009-0000-2611-9307
+  name: Nguyen, Thuyanh V.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/03cpe7c52
+    name: Allen Institute
+    schemaKey: Affiliation
+  name: Koch, Christof
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/03cpe7c52
+    name: Allen Institute
+    schemaKey: Affiliation
+  name: Arkhipov, Anton
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/01y2jtd41
+    name: University of Wisconsin–Madison
+    schemaKey: Affiliation
+  name: Tononi, Giulio
+  roleName:
+  - dcite:Author
+  schemaKey: Person
 dateCreated: '2020-08-18T08:05:48.731000+00:00'
 description: "Despite significant progress in understanding neural coding, it remains
   unclear how the coordinated activity of large populations of neurons relates to
